@@ -15,8 +15,6 @@ Here are my objectives and if you're inspired, you can also follow these instruc
 
 Congratulations! Now you have a game. But, it is not fully complete yet, here are the things you can do to make improve it:
 
-    4. Add a player system (After player 1 is finished with the sentence, the code moves to the next player)
-        a. Add a player system
-        b.
-
-    5.
+    4. Condition it so that the STORY appear first before the input
+        a. add a function that randomly selects a story template from your stories.
+        b. add that function first to your main() so that it functions first before your inputs
